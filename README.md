@@ -27,7 +27,10 @@ Step 3:
 Open the Msixbundle file and click on reinstall
 
 Step 4:
-Extract Delta and run the exe file
+Download the rar file from release
 
 Step 5:
+Extract Delta and run the exe file
+
+Step 6:
 Enjoy!
