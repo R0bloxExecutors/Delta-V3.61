@@ -1,0 +1,16 @@
+{
+    "modules": [
+      {
+        "online_link": "https://cdn.discordapp.com/attachments/1141200234110799963/1147518824313266216/Delta.dll",
+        "name": "592.dll",
+        "hash": "d385e0c9089a34d09bdfde4e18c26f1af31fac6d8bdf4584b9e9532b736745aa58c7ff830c2576ea673194a6c1852294",
+        "active": true
+      },
+      {
+        "online_link": "https://cdn.discordapp.com/attachments/1141200234110799963/1142254623705542778/Module.dll",
+        "name": "590.dll",
+        "hash": "0973896c82843b90ef560f55e1c652b065afe44295e126feb81a8c49e9e9bb26ef34233abfb922140eb438e721870173",
+        "active": true
+      }
+    ]
+  }

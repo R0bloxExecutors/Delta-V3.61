@@ -1,0 +1,2 @@
+You can put your own scripts in the "scripts" folder, inside the "Delta" Folder.
+All Scripts in here can be loaded in delta by clicking the "Toggle Scriptbox" Button next to open :)
